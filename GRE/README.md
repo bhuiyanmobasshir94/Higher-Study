@@ -1,5 +1,7 @@
 # Resources
 
+1. [ETS GRE About Section](https://www.ets.org/gre/revised_general/about)
+
 #### Suggestion 1
   
     GRE তে ৩২০ পেতে চাইলে – লিখেছেন রেদওয়ান আহমেদ।
