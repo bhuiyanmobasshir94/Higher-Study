@@ -10,10 +10,10 @@
 5. [The vocabulary builder workbook by Chris Lele](#) - `priority 8/10` 
 
 ##### Categorizing Vocabulry
-1. High risk pool -  always forgets the meaning, can't remember long
-2. Medium risk pool - Remember sometimes
-3. Low risk pool - Remember 90% time, make confusion 10% time
-4. Close to solving - Almost done with rememberance
-5. Solved - In long term memory
+1. High risk pool -  `always forgets the meaning, can't remember long`
+2. Medium risk pool - `Remember sometimes`
+3. Low risk pool - `Remember 90% time, make confusion 10% time`
+4. Close to solving - `Almost done with rememberance`
+5. Solved - `n long term memory`
   
     
