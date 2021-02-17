@@ -34,7 +34,7 @@
 ##### Reading Posture
 - Ergonomics - The right reading posture
 
-##### Non-fiction books to start off:
+##### Non-fiction books to start off
 1. The Power of Habit
 2. Predictably Irrational
 3. [50 essential non-fiction books](https://www.abebooks.com/books/50-essential-non-fiction-books/index.shtml)
