@@ -38,4 +38,11 @@
 1. The Power of Habit
 2. Predictably Irrational
 3. [50 essential non-fiction books](https://www.abebooks.com/books/50-essential-non-fiction-books/index.shtml)
+
+##### Chrome Extensions
+1. [Magoosh GRE Vocab Highlighter](https://chrome.google.com/webstore/detail/magoosh-gre-vocab-highlig/hlkndiknofmlmajfocifccmplknafjeo?hl=en)
+2. [Magoosh Vocabulary](https://chrome.google.com/webstore/detail/magoosh-vocabulary/oooelhhaglnggehlocjjmgngfknfclak)
+
+## Credits
+1. [Bohubrihi](https://bohubrihi.com/course/gre-verbal-preparation/)
     
