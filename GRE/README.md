@@ -10,10 +10,32 @@
 5. [The vocabulary builder workbook by Chris Lele](#) - `priority 8/10` 
 
 ##### Categorizing Vocabulry
-1. High risk pool -  `always forgets the meaning, can't remember long`
+1. High risk pool -  `Always forgets the meaning, can't remember long`
 2. Medium risk pool - `Remember sometimes`
 3. Low risk pool - `Remember 90% time, make confusion 10% time`
 4. Close to solving - `Almost done with rememberance`
-5. Solved - `n long term memory`
-  
+5. Solved - `In long term memory`
+
+##### Reading Habit Scale
+1. Beginner - `Reading stretch 5-10 minutes`
+  - The Daily Star
+  - New York Times
+  - The Guardian
+2. Intermediate - `Reading stretch 20-30 minutes`
+  - New York Times
+  - The Nation
+  - The Atlantic Monthly
+3. Advanced - `Reading stretch 30-60 minutes`
+  - Aeon
+  - Scientific American
+  - The New Atlantis
+  - Aldaily.com
+
+##### Reading Posture
+- Ergonomics - The right reading posture
+
+##### Non-fiction books to start off:
+1. The Power of Habit
+2. Predictably Irrational
+3. [50 essential non-fiction books](https://www.abebooks.com/books/50-essential-non-fiction-books/index.shtml)
     
