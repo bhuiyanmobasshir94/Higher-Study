@@ -2,6 +2,8 @@
 1. [Test Prep Materials by NextopUSA](https://sites.google.com/view/nextoptestprepresourses/home?authuser=0)
 2. [Nextopusa](http://nextopusa.com/)
 
+# Tips and trips by blogs
+1. [Amit Seal Ami's Blog](https://amitsealami.com/blog/higher-studies/before-coming-to-usa-1/)
 
 ## Books you will need for GRE & TOEFL 📚 📄
 1. [ETS Verbal](http://amzn.to/2q01tHr)
