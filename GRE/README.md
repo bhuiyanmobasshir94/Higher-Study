@@ -1,6 +1,7 @@
 # Resources
 
 1. [ETS GRE About Section](https://www.ets.org/gre/revised_general/about)
+2. [Gunning fog index](http://gunning-fog-index.com/)
 
 ## Dictionary
 1. [Merriam Webster](https://www.merriam-webster.com/) - `Priority 10/10`
