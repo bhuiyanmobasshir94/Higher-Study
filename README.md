@@ -13,3 +13,6 @@
 5. [Kaplan Power Prep](http://amzn.to/2thKJOA)
 6. [Official Guide for TOEFL](http://amzn.to/2ueaClq)
 7. [Princeton Review](http://amzn.to/2thTzfm)
+
+## Playlists
+1. [Applying for PhD Programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
