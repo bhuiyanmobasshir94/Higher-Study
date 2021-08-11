@@ -2,6 +2,7 @@
 
 1. [ETS GRE About Section](https://www.ets.org/gre/revised_general/about)
 2. [Gunning fog index](http://gunning-fog-index.com/)
+3. [Khan Academy® Instructional Videos: Free Preparation for the GRE® Quantitative Reasoning Measure](https://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/khan_academy/)
 
 ## Dictionary
 1. [Merriam Webster](https://www.merriam-webster.com/) - `Priority 10/10`
