@@ -5,6 +5,7 @@
 3. [Khan Academy® Instructional Videos: Free Preparation for the GRE® Quantitative Reasoning Measure](https://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/khan_academy/)
 4. [Prepare for the GRE® General Test](https://www.ets.org/gre/revised_general/prepare/)
 5. [Vince kotchian ](https://quizlet.com/Vince_Kotchian)
+6. [Magoosh latest videos](https://drive.google.com/drive/folders/1oP2wz0wCL1AkQXjCifplxZINtBlo9sYH?usp=sharing)
 
 ## Dictionary
 1. [Merriam Webster](https://www.merriam-webster.com/) - `Priority 10/10`
